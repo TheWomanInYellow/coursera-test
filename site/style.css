@@ -3,6 +3,26 @@
 	box-sizing: border-box;
 }
 
+body {
+	background-color: yellow;
+}
+
+img {
+	border-radius: 50%;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+#banner {
+	height: 10%;
+	width: 10%;
+}
+
 #pageTitle {
 	color: yellow;
 	background-color: black;

@@ -1,0 +1,13 @@
+*{
+	margin:5px;
+	box-sizing: border-box;
+}
+
+#pageTitle {
+	color: yellow;
+	background-color: black;
+	text-align: center;
+	border: 5px double yellow;
+	border-top-style: hidden;
+	font-size: 60px;
+	}

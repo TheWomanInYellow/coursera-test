@@ -4,11 +4,12 @@
 
 body {
     background-color: #b5d9f5;
-    font-family:  sans-serif;
+    font-family: sans-serif;
 }
 
 h1 {
 	text-align: center;
+  margin-top: 30px;
 	margin-bottom: 45px;
 }
 
@@ -54,12 +55,12 @@ h1 {
 }
 
 #beef {
-  background-color: darkred;
+  background-color: #750002;
   color: white;
 }
 
 #sushi {
-  background-color: lightyellow;
+  background-color: #f9ffce;
 }
 
 @media (min-width: 992px) {
